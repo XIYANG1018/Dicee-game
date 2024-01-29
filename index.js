@@ -22,3 +22,5 @@ if (randomNumber1 > randomNumber2) {
 } else {
     document.querySelector("h1").innerHTML = "It's a tie!"
 }
+
+document.querySelector("input").style.backgroundColor = "#4ECCA3";
